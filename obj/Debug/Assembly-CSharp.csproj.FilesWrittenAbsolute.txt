@@ -1,0 +1,17 @@
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/obj/Debug/Assembly-CSharp.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/UnityEngine.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/UnityEditor.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jodonnell/Code/Unity/SpaceDeath/Temp/bin/Debug/Mono.Cecil.Mdb.dll
